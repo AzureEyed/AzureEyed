@@ -1,13 +1,12 @@
-<h1 align="center">🚀 This Account Has Moved</h1>
+# 👋 This Account Has Moved
 
-<p align="center">
-This GitHub profile is no longer active.
-</p>
+Hi there!
 
-<p align="center">
-👉 <a href="https://github.com/liram-hen"><b>Click here to visit my new profile: liram-hen</b></a>
-</p>
+This GitHub account is no longer active.
 
-<p align="center">
-All projects are now maintained there.
-</p>
+👉 **Please visit my new profile instead:**
+# https://github.com/liram-hen
+
+All active projects and updates are now maintained there.
+
+Thank you!
